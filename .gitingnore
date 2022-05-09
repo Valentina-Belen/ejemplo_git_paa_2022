@@ -1,0 +1,9 @@
+credenciales.txt
+prueba_local/
+
+##No debe considerarse ningún TXT
+*.txt
+*.jpg
+*.png
+*.gif
+*.svg

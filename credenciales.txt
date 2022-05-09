@@ -1,0 +1,3 @@
+usuario :mcoy
+pass: 12345
+bd: mcoy_db
